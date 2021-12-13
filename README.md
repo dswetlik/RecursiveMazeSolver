@@ -6,5 +6,5 @@ If you do decide to create a maze, you may need to change the name of the file t
 <pre>
 {Number of Rows} {Number of Columns}
 {maze}
-<\pre>
+</pre>
 The maze must start at (0,0) and end at (Number of Rows, Number of Columns). A path is labeled by a '.' and a wall is labeled by a '*'. The pathing cannot be at a diagonal. Finally, the max amount of rows and columns is 10.
